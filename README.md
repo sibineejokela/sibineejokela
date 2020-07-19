@@ -1,9 +1,11 @@
-### Hi there 👋
 
-![Black Lives Matter](https://media.giphy.com/media/3og0IAarnUJrcvfBlu/giphy.gif)
+
+<img src="https://media.giphy.com/media/3og0IAarnUJrcvfBlu/giphy.gif" width="250">
 
 <!--
 **sibineejokela/sibineejokela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
