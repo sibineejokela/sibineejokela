@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Black Lives Matter](https://media.giphy.com/media/3og0IAarnUJrcvfBlu/giphy.gif)
+![Black Lives Matter](https://media.giphy.com/media/3og0IAarnUJrcvfBlu/giphy.gif)
 
 <!--
 **sibineejokela/sibineejokela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
