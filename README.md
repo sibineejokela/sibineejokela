@@ -1,8 +1,6 @@
 
-<!--
-<br/><br/>
 
-[Visit my Tableau Public profile here](https://public.tableau.com/profile/sibinee.jokela#!/)-->
+<!--[Visit my Tableau Public profile here](https://public.tableau.com/profile/sibinee.jokela#!/)-->
 <!--
 **sibineejokela/sibineejokela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
